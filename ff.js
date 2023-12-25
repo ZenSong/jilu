@@ -1,1 +1,5 @@
-console.log('mif')
+function com(...arg) {
+    return () => {
+        
+    }
+}
