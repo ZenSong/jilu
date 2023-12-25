@@ -3,3 +3,6 @@ function add () {
     return a + 12
 } 
 console.log(add())
+function foo () {
+    
+}
